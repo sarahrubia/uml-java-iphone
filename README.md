@@ -20,4 +20,4 @@ Implementar as classes e interfaces correspondentes em Java (Opcional).
 Exemplo de Diagrama UML (Mermaid)
 
 # Modelagem em UML
-![Modelagem UML simples do iPhone](https://github.com/sarahrubia/uml-java-iphone/assets/52300436/a905c7ad-8e59-4c6c-adfc-0214b45f8801)
+![Modelagem UML simples do iPhone](https://github.com/sarahrubia/uml-java-iphone/assets/52300436/6f18f3a8-96bb-447d-be65-adba539fedec)
